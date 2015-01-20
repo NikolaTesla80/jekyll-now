@@ -48,6 +48,7 @@ baseurl: ""
 collections:
   coll_test:
     output: true
+    foo: bar
 
 #
 # !! You don't need to change any of the configuration flags below !!
