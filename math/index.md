@@ -8,6 +8,8 @@ Some information about Math
 
 ### Math ###
 
+$$ a = b $$ 
+
 Here some links are put about Math 
 
 ### Contact me ###
