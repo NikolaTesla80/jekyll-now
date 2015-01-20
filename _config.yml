@@ -46,7 +46,7 @@ url:
 baseurl: ""
 
 collections:
-  coll_test:
+  colltest:
     output: true
     foo: bar
 
