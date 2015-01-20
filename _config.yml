@@ -45,6 +45,10 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+collections:
+  coll_test:
+    output: true
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
